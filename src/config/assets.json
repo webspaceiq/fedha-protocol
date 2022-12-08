@@ -1,0 +1,14 @@
+[
+    { "name": "Botswana Pula", "symbol": "BWP" },
+    { "name": "Egyptian Pound", "symbol": "EGP" },
+    { "name": "Eritrean Nakfa", "symbol": "ERN" },
+    { "name": "Ghanaian Cedi", "symbol": "GHS" },
+    { "name": "Kenyan Shilling", "symbol": "KES" },
+    { "name": "Libyan Dinar", "symbol": "LYD" },
+    { "name": "Moroccan Dirham", "symbol": "MAD" },
+    { "name": "Nigerian Naira", "symbol": "NGN" },
+    { "name": "South African Rand", "symbol": "ZAR" },
+    { "name": "Seychellois Rupee", "symbol": "SCR" },
+    { "name": "Tunisian Dinar", "symbol": "TND" },
+    { "name": "Zambian Kwacha", "symbol": "ZMW" }
+]
